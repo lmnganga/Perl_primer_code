@@ -1,7 +1,8 @@
 #!/usr/bin/env perl
 #project1 calculate the %nucleotides in a sequence supplied by a user
 
-use warnings; use strict;
+use warnings;
+use strict;
 
 #Use command line to get the DNA seq
 #Pass the seq to string variable $seq
